@@ -8,3 +8,4 @@
 
 #### 활용 데이터
  - Seaborn에서 기본적으로 제공하는 Titanic data-set 활용
+ - Seaborn에서 기본적으로 제공하는 Tips data-set 활용
